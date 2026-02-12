@@ -27,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbitt&show_icons=true&locale=en&layout=compact" alt="devbitt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbitt&show_icons=true&locale=en" alt="devbitt" /></p>
-
+Open Source Badge Wall
+Hacktoberfest 2025
 <p align="center"> <a href="https://holopin.io/@devbitt"> <img src="https://holopin.me/devbitt" alt="Holopin Badge Board" /> </a> </p>
