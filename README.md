@@ -56,35 +56,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbitt&show_icons=true&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbitt&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbitt&theme=github-light&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devbitt&theme=default&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbitt&theme=flat&no-frame=true"/>
-</p>
-
----
-
 ## ⚡ Philosophy
 
 > Open Source is proof of impact.  
