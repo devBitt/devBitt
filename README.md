@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,react,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=pandas,seaborn,matlab,vscode" />
 </p>
 
 ---
