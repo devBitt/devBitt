@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning Implementation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devBitt/devBitt/](https://github.com/devBitt/devBitt/)
+- 👨‍💻 All of my projects are available at [https://github.com/devBitt/devBitt/](https://github.com/devBitt/)
 
 - 💬 Ask me about **Python Programming,Problem Solving,Physics-Based Computation,Hackathon Project Development**
 
