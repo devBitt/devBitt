@@ -47,7 +47,7 @@
 - 🚀 Participated in **Bharatiya Antariksha Hackathon** & **RBI Hackathon**
 - 👯 Looking to collaborate on **physics simulations & open source scientific computing**
 - 💬 Ask me about **Computational Physics, Special Relativity, Python, Hackathons**
-- 📫 Reach me at **adithyanpikachu@gmail.com**
+- 📫 Reach me at **adithyanscodes@gmail.com**
 
 ---
 
